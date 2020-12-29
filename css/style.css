@@ -12,7 +12,7 @@ body{
 
 nav ul a,
 nav .brand-logo {
-  color: #0fa3b1;
+  color: #0fa3b1 !important;
 }
 
 nav .brand-logo {
@@ -106,7 +106,7 @@ img.img-logo {
 }
 
 .newsletterButton{
-  background-color: #0fa3b1;
+  background-color: #0fa3b1!important;
 }
 
 .col-servizio{
@@ -114,7 +114,7 @@ img.img-logo {
 }
 
 .how-it-works-icon{
-  color: #0fa3b1;
+  color: #0fa3b1!important;
 }
 
 .registration{
@@ -134,7 +134,7 @@ img.img-logo {
 }
 
 .color-btn{
-  background-color: #0fa3b1;
+  background-color: #0fa3b1!important;
 }
 
 .btn-registration{
@@ -173,3 +173,4 @@ img.img-logo {
 .social-icon:hover{
   color:#eddea4;
 }
+
