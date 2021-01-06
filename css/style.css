@@ -174,3 +174,8 @@ img.img-logo {
   color:#eddea4;
 }
 
+.btnCantieri {
+    color: #0fa3b1 !important;
+    background-color: white !important;
+    text-decoration-line: underline !important;
+}
