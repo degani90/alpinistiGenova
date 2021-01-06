@@ -179,3 +179,8 @@ img.img-logo {
     background-color: white !important;
     text-decoration-line: underline !important;
 }
+
+.piva {
+    padding-right: 2em;
+    margin: 0;
+}
